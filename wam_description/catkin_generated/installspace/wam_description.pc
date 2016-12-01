@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: wam_description
+Description: Description of wam_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 
